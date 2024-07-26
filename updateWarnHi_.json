@@ -1,9 +1,9 @@
 {
     "updateAvailable": true,
     "updateImage": "https://i.imgur.com/Lvei0Vu.png",
-    "updateTitle": "¡Hi esta actualizado!",
-    "updateDescription": "¡Hi esta actualizado! Gracias por descargar e instalar la app!",
-    "updateDate": "24/07/2024",
-    "updateVersion": "1.2.6",
-    "updateUrl": "#"
+    "updateTitle": "¡Es momento de actualizar Hi!",
+    "updateDescription": "¡Hay una nueva versión de Hi disponible para descargar e instalar!",
+    "updateDate": "25/07/2024",
+    "updateVersion": "1.2.7",
+    "updateUrl": "https://apps.volt.build/c6d26f9c-9a09-4d52-8eb0-e7dbd9353ad1/android.debug.apk"
 }
