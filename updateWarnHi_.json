@@ -1,9 +1,9 @@
 {
     "updateAvailable": true,
     "updateImage": "https://i.imgur.com/Lvei0Vu.png",
-    "updateTitle": "¡Es momento de actualizar Hi!",
-    "updateDescription": "¡Hay una nueva versión de Hi disponible para descargar e instalar!",
-    "updateDate": "28/07/2024",
-    "updateVersion": "1.8.1",
-    "updateUrl": "https://apps.volt.build/724f5505-da17-46f4-86f8-89fe05d52b09/android.debug.apk"
-},
+    "updateTitle": "¡Es momento de actualizar a Next RBX!",
+    "updateDescription": "Lo sentimos, pero el soporte a Hi, ah terminado, nos da pena esto pero concluimos con una solucion, descarga la app oficial en la google play de  Next RBX",
+    "updateDate": "28/06/2025",
+    "updateVersion": "1.5.8",
+    "updateUrl": "https://play.google.com/store/apps/details?id=com.naxawave.nextrbx&hl=en-US&ah=jbYgb2wwRw94GvtcSq8xj71biwo&pli=1 "
+}
